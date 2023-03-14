@@ -1,5 +1,6 @@
 #Comandos DDL Linguagem SQL
-Estudo dirigido em criação da tabela  atividade Proposta pelo Professor Matheus
+Estudo dirigido em criação de tabela<br>
+atividade Proposta pelo Professor Matheus
 <h1>Primeira atividade: Manipulando os comandos SQL</h1><br>
 <h2>Matéria : Banco de Dados Relacional </h2><br>
 <h2>Instituição: Fatec de Itapira </h2>
