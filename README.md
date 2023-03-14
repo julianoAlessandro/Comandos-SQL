@@ -1,4 +1,4 @@
-#Comandos DML Linguagem SQL
+#Comandos DDL Linguagem SQL
 Estudo dirigido em criação da tabela  atividade Proposta pelo Professor Matheus
 <h1>Primeira atividade: Manipulando os comandos SQL</h1><br>
 <h2>Matéria : Banco de Dados Relacional </h2><br>
