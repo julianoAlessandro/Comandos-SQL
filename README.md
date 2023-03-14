@@ -6,7 +6,7 @@ Estudo dirigido em criação da tabela  atividade Proposta pelo Professor Matheu
 <h3>Atividade proposta pelo Professor Matheus com o intuito de treinar os principais comandos DDL, criando-se as tabelas: Cliente, Carro,Apolice,Sinistro</h3><br>
 
 
-<h1>Criação da tabela Cliente </h1>
+<h1>Criação da tabela Cliente </h1><br><br><br><br>
 
 Create table cliente(
     codCliente int PRIMARY KEY,
@@ -26,7 +26,7 @@ Create table cliente(
 <hr>
 
 
-<h1>Criação da tabela Carro</h1>
+<h1>Criação da tabela Carro</h1><br><br><br><br>
 
 
 Create table Carro (
@@ -43,7 +43,7 @@ Create table Carro (
 
 
 
-<h1>Criação da tabela Apolice </h1>
+<h1>Criação da tabela Apolice </h1><br><br><br><br>
 
 Create table Apolice(
     CodApolice INT PRIMARY KEY,
@@ -58,7 +58,7 @@ Create table Apolice(
 );
 <hr>
 
-<h1>Criação da tabela Sinistro </h1>
+<h1>Criação da tabela Sinistro </h1><br><br><br><br>
 
 Create table Sinistro (
     codSinistro INT,
