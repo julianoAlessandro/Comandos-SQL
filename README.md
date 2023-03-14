@@ -1,7 +1,7 @@
-# Cria-o-da-tabela-usando-SQL
+#Comandos DML Linguagem SQL
 Estudo dirigido em criação da tabela  atividade Proposta pelo Professor Matheus
 <h1>Primeira atividade: Manipulando os comandos SQL</h1><br>
-<h2>Materia : Banco de Dados Relacional </h2><br>
+<h2>Matéria : Banco de Dados Relacional </h2><br>
 <h2>Instituição: Fatec de Itapira </h2>
 <h3>Atividade proposta pelo Professor Matheus com o intuito de treinar os principais comandos DDL, criando-se as tabelas: Cliente, Carro,Apolice,Sinistro</h3><br>
 
